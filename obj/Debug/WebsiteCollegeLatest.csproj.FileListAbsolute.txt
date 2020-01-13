@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2012\Projects\WebsiteCollegeLatest\WebsiteCollegeLatest\bin\WebsiteCollegeLatest.dll
+c:\users\hp\documents\visual studio 2012\Projects\WebsiteCollegeLatest\WebsiteCollegeLatest\bin\WebsiteCollegeLatest.pdb
+c:\users\hp\documents\visual studio 2012\Projects\WebsiteCollegeLatest\WebsiteCollegeLatest\obj\Debug\WebsiteCollegeLatest.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\WebsiteCollegeLatest\WebsiteCollegeLatest\obj\Debug\WebsiteCollegeLatest.dll
+c:\users\hp\documents\visual studio 2012\Projects\WebsiteCollegeLatest\WebsiteCollegeLatest\obj\Debug\WebsiteCollegeLatest.pdb
